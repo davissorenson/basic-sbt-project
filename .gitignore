@@ -1,0 +1,7 @@
+/bin/
+*.class
+.metadata/*
+*.cache
+.cache-main
+project/target
+target
